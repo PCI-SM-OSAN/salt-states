@@ -3,7 +3,7 @@
 ## Helpful Reading
 While not required, the following resources will help you get started on the technologies we'll be using and can be a useful reference in the future.
 
-* [Pro Git](http://git-scm.com/book) - a Creative Commons book on Git, including installation, setup, usage, and internals. Specifically, sections 1.3, 1.4, and 1.5 are good starting points. From there, use the table of contents to navigate to your item of interest.
+* [Pro Git](http://git-scm.com/book) - a Creative Commons book on Git, including installation, setup, usage, and internals. Specifically, sections 1.3, 1.4, and 1.5 are good starting points. Section 2.2 goes over commiting changes. From there, use the table of contents to navigate to your item of interest.
 
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/). We will not be following this model *exactly* but our model will resemble this one.
 
