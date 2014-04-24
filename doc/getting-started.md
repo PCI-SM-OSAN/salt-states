@@ -3,13 +3,13 @@
 ## Helpful Reading
 While not required, the following resources will help you get started on the technologies we'll be using and can be a useful reference in the future.
 
-* [Pro Git](http://git-scm.com/book) - a Creative Commons book on Git, including installation, setup, usage, and internals. Specifically, sections 1.3, 1.4, and 1.5 are good starting points. Section 2.2 goes over commiting changes. From there, use the table of contents to navigate to your item of interest.
+* [Pro Git](http://git-scm.com/book) - a Creative Commons book on Git, including installation, setup, usage, and internals. Specifically, sections 1.3, 1.4, and 1.5 are good starting points. Section 2.2 goes over commiting changes. From there, use the table of contents to navigate to your item of interest. If you're going to use Salt, you need to be comfortable with Git.
 
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/). We will not be following this model *exactly* but our model will resemble this one.
 
 * [Saltstack Walkthrough](http://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - A pragmatic guide for those new to Salt. Start here.
 
-* [docs.saltstack.com](docs.saltstack.com) - We'll invariably start writing Salt States. Get to know this page. Specifically, the [list of modules](http://docs.saltstack.com/en/latest/salt-modindex.html) and the [Table of Contents](http://docs.saltstack.com/en/latest/contents.html). Those will be your starting points for future endeavors.
+* [http://docs.saltstack.com](docs.saltstack.com) - We'll invariably start writing Salt States. Get to know this page. Specifically, the [list of modules](http://docs.saltstack.com/en/latest/salt-modindex.html) and the [Table of Contents](http://docs.saltstack.com/en/latest/contents.html). Those will be your starting points for future endeavors.
 
 ## How to Contribute
 Specific branches cannot be protected in Github so we'll use another mechanism to keep the states pristine - Pull Requests.
