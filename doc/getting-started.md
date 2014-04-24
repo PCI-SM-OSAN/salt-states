@@ -9,7 +9,7 @@ While not required, the following resources will help you get started on the tec
 
 * [Saltstack Walkthrough](http://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - A pragmatic guide for those new to Salt. Start here.
 
-* [http://docs.saltstack.com](docs.saltstack.com) - We'll invariably start writing Salt States. Get to know this page. Specifically, the [list of modules](http://docs.saltstack.com/en/latest/salt-modindex.html) and the [Table of Contents](http://docs.saltstack.com/en/latest/contents.html). Those will be your starting points for future endeavors.
+* [docs.saltstack.com](http://docs.saltstack.com) - We'll invariably start writing Salt States. Get to know this page. Specifically, the [list of modules](http://docs.saltstack.com/en/latest/salt-modindex.html) and the [Table of Contents](http://docs.saltstack.com/en/latest/contents.html). Those will be your starting points for future endeavors.
 
 ## How to Contribute
 Specific branches cannot be protected in Github so we'll use another mechanism to keep the states pristine - Pull Requests.
